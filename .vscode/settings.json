@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": ["${workspaceFolder}"],
+    "python.terminal.activateEnvironment": false,
+    "python.languageServer": "Pylance",
+    "python.pythonPath": "C:\\Users\\joween.flores\\.virtualenvs\\drf-tutorial-8VwJuq7X\\Scripts\\python.exe"
+}
